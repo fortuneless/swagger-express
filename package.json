@@ -16,7 +16,7 @@
     "url": "https://github.com/apigee-127/swagger-express.git"
   },
   "dependencies": {
-    "swagger-node-runner": "^0.7.0"
+    "swagger-node-runner": "Vincit/swagger-node-runner#427d0a4c43599de4aa03e2b3a359847b1b75cf84"
   },
   "devDependencies": {
     "lodash": "^3.9.3",
