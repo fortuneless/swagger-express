@@ -16,7 +16,7 @@
     "url": "https://github.com/apigee-127/swagger-express.git"
   },
   "dependencies": {
-    "swagger-node-runner": "fortuneless/swagger-node-runner#28fcffa9365dda735aa0c95b7c6245f3d91dabb7"
+    "swagger-node-runner": "fortuneless/swagger-node-runner#5a289d9e6d06f522ecdb0f3ecfe7e2fa4c7dc039"
   },
   "devDependencies": {
     "lodash": "^4.17.21",
